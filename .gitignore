@@ -1,0 +1,8 @@
+dataset
+collections
+projects
+courses
+notes
+*.logs
+*.ckpt*
+*.cptk*

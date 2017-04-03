@@ -26,6 +26,14 @@
 * Design Pattern Reference
   - [faif](https://github.com/faif/python-patterns)
 
+
+[ ] test  
+[.] test  
+[-] test  
+[=] test  
+[%] test  
+[x] test  
 ### others
 [Awesome Machine Learning frameworks](https://github.com/josephmisiti/awesome-machine-learning)  
-[Awesome Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
+[Awesome Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)  
+[Awesome Pytorch](https://github.com/bharathgs/Awesome-pytorch-list)  

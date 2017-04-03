@@ -1,8 +1,10 @@
 # Tutorial collections and playground for ML topics
-- **[under construction]** Some of the references might be missing for now.
+- **[under construction]** 
+- Some of the references might be missing for now.
 - Most of the codes are exerpt from reference repositories and references with only minor modifications.
 
 ## reference
+- Most of the references are in files.
 * General Reference
   - [tensorflow tutorials1](https://gist.github.com/haje01/202ac276bace4b25dd3f)
   - [tensorflow tutorials2](https://github.com/sjchoi86/Tensorflow-101.git)

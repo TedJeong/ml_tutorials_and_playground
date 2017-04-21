@@ -1,9 +1,20 @@
-# Tutorial collections and playground for ML topics
-- **[under construction]** 
+# Tutorial collections and playground for ML topics **[currently modifying in local]** 
 - Some of the references might be missing for now.
 - Most of the codes are exerpt from reference repositories and references with only minor modifications.
 
-
+## Contents
+-[ ] Chapter_0.Contents_and_References.ipynb
+-[ ] Chapter_1.ML_basic_collections.ipynb
+-[ ] Chapter_2,3,4,5.ML_collections.ipynb
+-[ ] Chapter_2-1.Building Blocks.ipynb
+-[ ] Chapter_6-1.RL_collections.ipynb
+-[ ] Chapter_6-2.GAN_collections.ipynb
+-[ ] Chapter_6-3.NLP_collections.ipynb
+-[ ] Chapter_7-1.jupyter_playground.ipynb
+-[ ] Chapter_7-2.sklearn_playground.ipynb
+-[ ] Chapter_7-4.tensorflow_playground.ipynb
+-[ ] Chapter_7-5.pytorch_playground.ipynb
+-[ ] Chapter_7-6.AL_collections.ipynb
 
 ## reference
 - Most of the references are in files.
